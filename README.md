@@ -41,7 +41,7 @@ I welcome contributions to enhance the Scientific Calculator project!
 
 ## [License]()
  
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [GPL-3.0 License](LICENSE).
 
 
 <h3 align="center">Connect with me:</h3>
