@@ -20,16 +20,9 @@ The Invoice Management System is a Python-based application designed to handle a
 - MySQL
 - mysql-connector-python
 
-## Installation
+## [Installation]()
 
-1. Clone the repository:
-
-## HOW TO USE
-#### Make sure that you have MySQL-Python Connector installed.
-1. Download the ZIP file, and extract its all content.
-2. Run the commands of the file **"Initial Database and Table"** in MySQL Command Line Client, so that the empty database for INVOICES and invoices_list table are created.
-3. Locate the .py file and run it.
-
+Clone the repository and Locate the .py file and run it.
 
 ## [Contributing]()
 
