@@ -1,11 +1,28 @@
-# Invoice-Management-System
-**This project handles and processes invoices using Python and SQL connectivity.**
+# Invoice Management System
 
-The user can:<br>
-- Make new invoices, by specifying details, and <br>
-- Edit existing invoices, whether complete invoice or a part of it.
+## Description
 
-The invoices will be visible in proper tabular format.
+The Invoice Management System is a Python-based application designed to handle and streamline various invoice-related operations. It uses MySQL for database management and provides a user-friendly command-line interface for managing invoices.
+
+## Features
+
+- Add new invoices
+- View invoices (all customers, by date, by total range, specific invoice, all invoices)
+- Modify existing invoices (edit details, delete invoices)
+- Input validation for all user inputs
+- Automatic calculation of totals and tax values
+- Formatted display of invoice details
+- Securely store all invoice data in a MySQL database.
+
+## Requirements
+
+- Python 3.x
+- MySQL
+- mysql-connector-python
+
+## Installation
+
+1. Clone the repository:
 
 ## HOW TO USE
 #### Make sure that you have MySQL-Python Connector installed.
