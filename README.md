@@ -22,7 +22,7 @@ The Invoice Management System is a Python-based application designed to handle a
 
 ## [Installation]()
 
-Clone the repository and Locate the .py file and run it.
+Clone the repository and Locate the 'Python Source Code.py' file and run it.
 
 ## [Contributing]()
 
