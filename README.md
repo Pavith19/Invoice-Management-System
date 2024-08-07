@@ -4,7 +4,7 @@
 
 The Invoice Management System is a Python-based application designed to handle and streamline various invoice-related operations. It uses MySQL for database management and provides a user-friendly command-line interface for managing invoices.
 
-## [Features]()
+## [🚀 Features]()
 
 - Add new invoices
 - View invoices (all customers, by date, by total range, specific invoice, all invoices)
@@ -14,17 +14,17 @@ The Invoice Management System is a Python-based application designed to handle a
 - Formatted display of invoice details
 - Securely store all invoice data in a MySQL database.
 
-## [Technology Used]()
+## [🛠 Technology Used]()
 
 - Python 3.x
 - MySQL
 - mysql-connector-python
 
-## [Installation]()
+## [⚙️ Installation]()
 
 Clone the repository and Locate the 'Python Source Code.py' file and run it.
 
-## [Contributing]()
+## [🤝 Contributing]()
 
 I welcome contributions to enhance the Scientific Calculator project! 
 
@@ -32,7 +32,7 @@ I welcome contributions to enhance the Scientific Calculator project!
 - **Add Features:** Implement new features or functionalities to enhance the calculator.
 - **Enhance Documentation:** Help improve the README, code comments or other documentation.
 
-## [License]()
+## [📄 License]()
  
 This project is open source and available under the [GPL-3.0 License](LICENSE).
 
